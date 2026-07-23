@@ -1,0 +1,14 @@
+D:\ThucTapHICAS\Week1\Day1\LogGenerator\bin\Debug\net8.0\LogGenerator.exe
+D:\ThucTapHICAS\Week1\Day1\LogGenerator\bin\Debug\net8.0\LogGenerator.deps.json
+D:\ThucTapHICAS\Week1\Day1\LogGenerator\bin\Debug\net8.0\LogGenerator.runtimeconfig.json
+D:\ThucTapHICAS\Week1\Day1\LogGenerator\bin\Debug\net8.0\LogGenerator.dll
+D:\ThucTapHICAS\Week1\Day1\LogGenerator\bin\Debug\net8.0\LogGenerator.pdb
+D:\ThucTapHICAS\Week1\Day1\LogGenerator\obj\Debug\net8.0\LogGenerator.GeneratedMSBuildEditorConfig.editorconfig
+D:\ThucTapHICAS\Week1\Day1\LogGenerator\obj\Debug\net8.0\LogGenerator.AssemblyInfoInputs.cache
+D:\ThucTapHICAS\Week1\Day1\LogGenerator\obj\Debug\net8.0\LogGenerator.AssemblyInfo.cs
+D:\ThucTapHICAS\Week1\Day1\LogGenerator\obj\Debug\net8.0\LogGenerator.csproj.CoreCompileInputs.cache
+D:\ThucTapHICAS\Week1\Day1\LogGenerator\obj\Debug\net8.0\LogGenerator.dll
+D:\ThucTapHICAS\Week1\Day1\LogGenerator\obj\Debug\net8.0\refint\LogGenerator.dll
+D:\ThucTapHICAS\Week1\Day1\LogGenerator\obj\Debug\net8.0\LogGenerator.pdb
+D:\ThucTapHICAS\Week1\Day1\LogGenerator\obj\Debug\net8.0\LogGenerator.genruntimeconfig.cache
+D:\ThucTapHICAS\Week1\Day1\LogGenerator\obj\Debug\net8.0\ref\LogGenerator.dll

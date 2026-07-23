@@ -1,0 +1,14 @@
+D:\ThucTapHICAS\Week1\Day1\WordCounter\bin\Debug\net8.0\WordCounter.exe
+D:\ThucTapHICAS\Week1\Day1\WordCounter\bin\Debug\net8.0\WordCounter.deps.json
+D:\ThucTapHICAS\Week1\Day1\WordCounter\bin\Debug\net8.0\WordCounter.runtimeconfig.json
+D:\ThucTapHICAS\Week1\Day1\WordCounter\bin\Debug\net8.0\WordCounter.dll
+D:\ThucTapHICAS\Week1\Day1\WordCounter\bin\Debug\net8.0\WordCounter.pdb
+D:\ThucTapHICAS\Week1\Day1\WordCounter\obj\Debug\net8.0\WordCounter.GeneratedMSBuildEditorConfig.editorconfig
+D:\ThucTapHICAS\Week1\Day1\WordCounter\obj\Debug\net8.0\WordCounter.AssemblyInfoInputs.cache
+D:\ThucTapHICAS\Week1\Day1\WordCounter\obj\Debug\net8.0\WordCounter.AssemblyInfo.cs
+D:\ThucTapHICAS\Week1\Day1\WordCounter\obj\Debug\net8.0\WordCounter.csproj.CoreCompileInputs.cache
+D:\ThucTapHICAS\Week1\Day1\WordCounter\obj\Debug\net8.0\WordCounter.dll
+D:\ThucTapHICAS\Week1\Day1\WordCounter\obj\Debug\net8.0\refint\WordCounter.dll
+D:\ThucTapHICAS\Week1\Day1\WordCounter\obj\Debug\net8.0\WordCounter.pdb
+D:\ThucTapHICAS\Week1\Day1\WordCounter\obj\Debug\net8.0\WordCounter.genruntimeconfig.cache
+D:\ThucTapHICAS\Week1\Day1\WordCounter\obj\Debug\net8.0\ref\WordCounter.dll
